@@ -1,5 +1,5 @@
 
-・StyleCop（https://osdn.jp/projects/oss-ja-jpn/releases/p11170）を導入すること。
+・StyleCop（https://osdn.jp/projects/oss-ja-jpn/releases/p11170）を導入し窓割れは解消すること。
 　また、タスク用タームとして以下を使用すること。
 	// UBTTODO   ：覚書
 	// UBTTDB    ：未定
