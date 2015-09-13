@@ -1,5 +1,6 @@
 
-・タスク用タームとして、以下を使用すること。
+・StyleCop（https://osdn.jp/projects/oss-ja-jpn/releases/p11170）を導入すること。
+　また、タスク用タームとして以下を使用すること。
 	// UBTTODO   ：覚書
 	// UBTTDB    ：未定
 	// UBTFIXME  ：仮実装
